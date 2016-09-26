@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Pagina Principal</title>
+	<link href="css/estilos_basicos.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="principal">
+  <div id="encabezado"><img src="imagenes/Encabezado.jpg" width="100%" height="101" alt=""/>
+  </div>
+  <div id="menu"><img src="imagenes/menu_sin.jpg" width="20%" height="25" alt=""/>
+	<img src="imagenes/btn_inicio.jpg" width="66" height="24" alt=""/>
+	<a href="quienesomos.html"><img src="imagenes/bt_quienesomos.jpg" width="134" height="24" alt=""/></a>
+	<a href="productos.html"><img src="imagenes/btn_productos.jpg" width="119" height="24" alt=""/></a>
+	<a href="contactanos.html"><img src="imagenes/btn_contactanos.jpg" width="129" height="24" alt="contactenos"/></a>
+	<img src="imagenes/menu_sin.jpg" width="40" height="25" alt=""/>
+  </div>
+  <div id="contenido"><img src="imagenes/Central.jpg" width="100%" height="504" alt=""/>
+  </div>
+  <div id="contenido2"><img src="imagenes/Abajo.jpg" width="100%" height="341" alt=""/>
+  </div>
+  <div id="pie"><img src="imagenes/Piepagina.jpg" width="100%" height="221" alt=""/>
+  </div>
+</div>
+</body>
+</html>
