@@ -1,0 +1,9 @@
+@charset "utf-8";
+#principal #contenido {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	color: hsla(0,0%,1%,1);
+	background-color: rgba(255,255,255,1.00);
+	text-align: left;
+}
