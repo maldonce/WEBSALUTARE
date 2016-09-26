@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pagina Contactanos</title>
+<link href="css/estilos_basicos.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="principal">
+  <div id="encabezado"><img src="imagenes/Encabezado.jpg" width="100%" height="101" alt=""/>
+  </div>
+  <div id="menu"><img src="imagenes/menu_sin.jpg" width="20%" height="25" alt=""/>
+	<a href="principal.html"><img src="imagenes/btn_inicio.jpg" width="66" height="24" alt="contactenos"/></a>
+	<a href="quienesomos.html"><img src="imagenes/bt_quienesomos.jpg" width="134" height="24" alt=""/></a>
+	<a href="productos.html"><img src="imagenes/btn_productos.jpg" width="119" height="24" alt=""/></a>
+	<img src="imagenes/btn_contactanos.jpg" width="129" height="24" alt=""/>
+	<img src="imagenes/menu_sin.jpg" width="40" height="25" alt=""/>
+  </div>
+  <div id="contenido"><img src="imagenes/contacto1.jpg" width="100%" height="255" alt=""/>
+  </div>
+  
+  <form method="post">
+<table width="200" border="0" cellpadding="5">
+  <tbody>
+    <tr>
+      <td align="left" valign="middle">&nbsp;Nombre</td>
+      <td>&nbsp;<input name="nombre" type="text" id="nombre" size="40"></td>
+    </tr>
+    <tr>
+      <td>&nbsp;Apellido</td>
+      <td>&nbsp;<input name="apellido" type="text" id="apellido" size="40"></td>
+    </tr>
+    <tr>
+      <td>&nbsp;Empresa</td>
+      <td>&nbsp;<input name="empresa" type="text" id="empresa" size="40"></td>
+    </tr>
+    <tr>
+      <td>&nbsp;Celular</td>
+      <td>&nbsp;<input name="celular" type="text" id="celular" size="15"></td>
+    </tr>
+    <tr>
+      <td>&nbsp;Email</td>
+      <td>&nbsp;<input name="email" type="text" id="email" size="30"></td>
+    </tr>
+    <tr>
+      <td valign="top">&nbsp;Mensaje:</td>
+      <td valign="top">&nbsp;<textarea name="mensaje" rows="4" maxlength="100" wrap="soft" id="mensaje"></textarea></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td align="right">&nbsp;<input name="enviar" type="button" id="enviar" title="ENVIAR" value="ENVIAR MENSAJE"></td>
+    </tr>
+  </tbody>
+</table>
+	</form>
+  
+  <div id="contenido2"><img src="imagenes/contacto2.jpg" width="100%" height="718" alt=""/>
+  </div>
+  <div id="pie"><img src="imagenes/Piepagina.jpg" width="100%" height="221" alt=""/>
+  </div>
+</div>
+</body>
+</html>
